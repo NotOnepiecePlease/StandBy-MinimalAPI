@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIStandBy", "APIStandBy\APIStandBy.csproj", "{EA0E5783-2866-4DF2-B8A0-D5D41D0F598B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0E5783-2866-4DF2-B8A0-D5D41D0F598B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0E5783-2866-4DF2-B8A0-D5D41D0F598B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0E5783-2866-4DF2-B8A0-D5D41D0F598B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0E5783-2866-4DF2-B8A0-D5D41D0F598B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DCC0FC-6539-48E7-9237-B66D6CBF6254}
+	EndGlobalSection
+EndGlobal
